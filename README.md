@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI-Calculator-Python
 BMI 计算器（Toga 跨平台桌面GUI）
  
 基于 Python + Toga 框架开发的跨平台桌面版 BMI 计算器，支持 Windows / macOS / Linux 运行，界面简洁轻量化，自带输入异常捕获，零基础可直接运行。
